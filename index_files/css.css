@@ -1,0 +1,157 @@
+
+	body, input, textarea, select { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+	#popupBackground {
+		background: rgba(0, 0, 0, 0.9);
+		width: 100%;
+		height: 100%;	
+		position: fixed;
+		z-index: 998;
+	}
+
+	#cookiePopup {
+    background: #fff;
+    left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+    position: fixed;
+    box-shadow: 0px 0px 15px #cccccc;
+    padding: 5px 10px;
+    z-index: 999;
+    opacity: 1;
+  }
+    #cookiePopup p{
+    background: #fff;
+    text-align: center;
+    font-size: 15px;
+    color: #4e4e4e;
+    opacity: 1;
+  }
+  #cookiePopup button{
+  	font-size: 18px;
+  	font-weight: 600;
+    width: 50%;
+	left: 50%;
+	margin-bottom: 20px;
+	-ms-transform: translateX(50%);
+	transform: translateX(50%);
+    border: navajowhite;
+    background: #7dca5c;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+  }
+	
+	
+	
+	h1, h2, h3, h4 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+		
+	
+	#header .branding h1 { font-family: 'Alegreya SC', serif; }
+		
+	
+	#header .main-navigation ul li a { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+	.ui-tooltip-main-navigation-sub-menu .ui-tooltip-content { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+	.sidr { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+		
+	
+	.button { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+		
+	
+	body { background-color: #FFFFFF; } 
+	
+	
+	body { color:#7D7975; }
+	
+	
+	a { color:#A60008; }
+
+	
+	a:hover:not(.button)  { color:#FB0C0B; }
+
+	
+	h1, h2, h3, h4 { color:#424242; }
+	.product h1 a { color:#424242; }
+	.event h1 a { color:#424242; }
+	.blog-article h1 a { color:#424242; }
+	
+	
+	#header-top { background:#A60008; }
+	
+	
+	#header-top a { color:#FFFFFF; }
+	
+	
+	#header-top a:hover { color:#F6D8D8; }
+	
+	
+	#header-bottom { background:#FFFFFF; }
+	.ui-tooltip-main-navigation-sub-menu .ui-tooltip-content { background:#FFFFFF; }
+
+	
+	#header-bottom { border-bottom:1px solid #EEEEEE; }
+	.ui-tooltip-main-navigation-sub-menu .ui-tooltip-content ul li { border-bottom:1px solid #EEEEEE; }
+	.ui-tooltip-main-navigation-sub-menu { border:1px solid #EEEEEE !important; }
+	
+	
+	#header-bottom .branding h1 a { color:#424242; }
+	
+	
+	#header-bottom .main-navigation ul li a { color:#666666; }
+	.ui-tooltip-main-navigation-sub-menu .ui-tooltip-content ul li a { color:#666666; }
+	
+	
+	#header-bottom .main-navigation ul li a:hover { color:#FB0C0B; }
+	
+	
+	fieldset { background:#F5F5F5; }
+	blockquote { background:#F5F5F5; }
+	
+	
+	.button { background:#FB0C0B; }
+	
+	
+	.button { color:#FFFFFF; }
+	.button:hover { color:#FFFFFF; }
+	
+	
+	hr { background:#EEEEEE; }
+	th, td { border-color:#EEEEEE;}
+	
+	#footer { border-top:1px solid #EEEEEE; }
+	
+	
+	#footer p { color:#7D7975; }
+	
+	
+	#footer a { color:#920A0A; }
+	
+	
+	#footer a:hover { color:#FB0C0B; }
+	
+	
+	#header-bottom .main-navigation ul li a.selected { color:#2F3E4F; }
+
+	
+	#footer { background:#FFFFFF; }
+
+    
+    .ui-tooltip-main-navigation-sub-menu .ui-tooltip-content ul li a:hover { color:#2F3E4F; }
+
+    
+    .ui-tooltip-main-navigation-sub-menu .ui-tooltip-content ul li a:hover { background:#FFFFFF; }
+	
+    
+    .sidr { background: #FFFFFF; }   
+
+    
+    .sidr ul li a { color:#666666; }
+
+    
+    .sidr ul li a:hover { color:#FB0C0B; }
+    .sidr .submenu ul li a:hover { color:#FB0C0B; }    
+
+    
+    .sidr ul li a:hover { background:#FFFFFF; }
+
+
